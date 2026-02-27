@@ -14,28 +14,28 @@ https://templatemo.com/tm-600-prism-flux
         const portfolioData = [
             {
                 id: 1,
-                title: 'flamengo x palmeiras',
+                title: 'Flamengo x Palmeiras',
                 description: 'Advanced AI system with deep learning capabilities for predictive analytics and pattern recognition.',
                 image: 'images/neural-network.jpg',
                 tech: ['TensorFlow', 'Python', 'CUDA']
             },
             {
                 id: 2,
-                title: 'pulgar lesiona andreas pereira',
+                title: 'Pulgar lesiona Andreas pereira',
                 description: 'Next-generation cloud infrastructure leveraging quantum computing for unprecedented processing power.',
                 image: 'images/quantum-cloud.jpg',
                 tech: ['AWS', 'Kubernetes', 'Docker']
             },
             {
                 id: 3,
-                title: 'vexame do mengo na recopa',
+                title: 'Vexame do Mengo na Recopa',
                 description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Ethereum', 'Solidity', 'Web3']
             },
             {
                 id: 4,
-                title: 'Cyber Defense',
+                title: 'Sao Paulo toma taca pra LDU na Liberta!',
                 description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
                 image: 'images/cyber-defense.jpg',
                 tech: ['Zero Trust', 'AI Defense', 'Encryption']
