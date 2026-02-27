@@ -15,7 +15,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 1,
                 title: 'Flamengo x Palmeiras',
-                description: 'Advanced AI system with deep learning capabilities for predictive analytics and pattern recognition.',
+                description: 'Com gol sofrido no finalsinho de danilo, Flamengo vence .',
                 image: 'images/neural-network.jpg',
                 tech: ['TensorFlow', 'Python', 'CUDA']
             },
