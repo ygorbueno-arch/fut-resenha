@@ -28,7 +28,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 3,
-                title: 'Blockchain Vault',
+                title: 'vexame do mengo na recopa',
                 description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Ethereum', 'Solidity', 'Web3']
