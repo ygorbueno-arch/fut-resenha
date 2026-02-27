@@ -21,7 +21,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 2,
-                title: 'Quantum Cloud',
+                title: 'pulgar lesiona andreas pereira',
                 description: 'Next-generation cloud infrastructure leveraging quantum computing for unprecedented processing power.',
                 image: 'images/quantum-cloud.jpg',
                 tech: ['AWS', 'Kubernetes', 'Docker']
