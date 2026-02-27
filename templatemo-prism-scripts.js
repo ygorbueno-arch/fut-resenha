@@ -42,7 +42,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 5,
-                title: 'Data Nexus',
+                title: 'Corinthias devendo ate a Alma!',
                 description: 'Big data processing platform capable of analyzing petabytes of information in real-time.',
                 image: 'images/data-nexus.jpg',
                 tech: ['Apache Spark', 'Hadoop', 'Kafka']
