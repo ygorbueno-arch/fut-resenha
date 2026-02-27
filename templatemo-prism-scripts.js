@@ -15,21 +15,21 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 1,
                 title: 'Flamengo x Palmeiras',
-                description: 'Com gol sofrido no finalsinho de danilo, Flamengo vence .',
+                description: 'Com gol sofrido no finalsinho de danilo, Flamengo vence o Palmeiras na Libertadores.',
                 image: 'images/neural-network.jpg',
                 tech: ['TensorFlow', 'Python', 'CUDA']
             },
             {
                 id: 2,
                 title: 'Pulgar lesiona Andreas pereira',
-                description: 'Next-generation cloud infrastructure leveraging quantum computing for unprecedented processing power.',
+                description: 'Pulgar com toda delicadeza do mundo acerta sem querer a cabeca do Andreas Pereira.',
                 image: 'images/quantum-cloud.jpg',
                 tech: ['AWS', 'Kubernetes', 'Docker']
             },
             {
                 id: 3,
                 title: 'Vexame do Mengo na Recopa',
-                description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
+                description: 'Culpa de Felipe Luiz, Famengo perde a Recopa pra time lixo da argentina(Lanus).',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Ethereum', 'Solidity', 'Web3']
             },
