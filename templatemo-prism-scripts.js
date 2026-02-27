@@ -56,7 +56,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 7,
-                title: 'IoT Matrix',
+                title: 'Neysao na Copa!',
                 description: 'Intelligent IoT ecosystem connecting millions of devices with edge computing capabilities.',
                 image: 'images/iot-matrix.jpg',
                 tech: ['MQTT', 'Edge AI', '5G']
