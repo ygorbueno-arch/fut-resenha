@@ -49,7 +49,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 6,
-                title: 'AR Interface',
+                title: 'Vascao acumula mais rebaixamentos do que titulos!',
                 description: 'Augmented reality system for immersive data visualization and interactive experiences.',
                 image: 'images/ar-interface.jpg',
                 tech: ['Unity', 'ARCore', 'Computer Vision']
