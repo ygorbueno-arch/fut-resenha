@@ -43,7 +43,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 5,
                 title: 'Corinthias devendo ate a Alma!',
-                description: 'Corinthias não consegue .',
+                description: 'Corinthias não consegue ficar um dia sem estar endividado, jogadores reclamam e não estão satisfeito com a diretoria .',
                 image: 'images/data-nexus.jpg',
                 tech: ['Apache Spark', 'Hadoop', 'Kafka']
             },
