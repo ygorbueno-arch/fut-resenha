@@ -22,42 +22,42 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 2,
                 title: 'Pulgar lesiona Andreas pereira',
-                description: 'Pulgar com toda delicadeza do mundo acerta sem querer a cabeca do Andreas Pereira.',
+                description: 'Pulgar com toda delicadeza do mundo acerta sem querer a cabeça de Andreas Pereira.',
                 image: 'images/quantum-cloud.jpg',
                 tech: ['AWS', 'Kubernetes', 'Docker']
             },
             {
                 id: 3,
                 title: 'Vexame do Mengo na Recopa',
-                description: 'Culpa de Felipe Luiz, Famengo perde a Recopa pra time lixo da argentina(Lanus).',
+                description: 'Culpa de Felipe Luiz, Flamengo perde a Recopa pra time lixo da argentina(Lanus).',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Ethereum', 'Solidity', 'Web3']
             },
             {
                 id: 4,
                 title: 'Sao Paulo toma taca pra LDU na Liberta!',
-                description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
+                description: 'Com derrota de 3X0 São Paulo passa vengonha na liberta e continua em jejum.',
                 image: 'images/cyber-defense.jpg',
                 tech: ['Zero Trust', 'AI Defense', 'Encryption']
             },
             {
                 id: 5,
                 title: 'Corinthias devendo ate a Alma!',
-                description: 'Big data processing platform capable of analyzing petabytes of information in real-time.',
+                description: 'Corinthias não consegue .',
                 image: 'images/data-nexus.jpg',
                 tech: ['Apache Spark', 'Hadoop', 'Kafka']
             },
             {
                 id: 6,
-                title: 'Vascao acumula mais rebaixamentos do que titulos!',
-                description: 'Augmented reality system for immersive data visualization and interactive experiences.',
+                title: 'Vascao acumula mais rebaixamentos do que titúlos!',
+                description: 'Nos últimos 10 anos o Vasco conseguiu a proeza de ser rebaixado mais vezes do que ter ganhado titúlos.',
                 image: 'images/ar-interface.jpg',
                 tech: ['Unity', 'ARCore', 'Computer Vision']
             },
             {
                 id: 7,
-                title: 'Neysao na Copa!',
-                description: 'Intelligent IoT ecosystem connecting millions of devices with edge computing capabilities.',
+                title: 'Neysão na Copa?',
+                description: 'Com vitória do Peixe e dois gols do menino Ney, será que Neymar está preparado para a copa?.',
                 image: 'images/iot-matrix.jpg',
                 tech: ['MQTT', 'Edge AI', '5G']
             }
