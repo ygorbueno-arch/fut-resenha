@@ -35,7 +35,7 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 4,
-                title: 'Sao Paulo toma taca pra LDU na Liberta!',
+                title: 'São Paulo toma taca pra LDU na Liberta!',
                 description: 'Com derrota de 3X0 São Paulo passa vengonha na liberta e continua em jejum.',
                 image: 'images/cyber-defense.jpg',
                 tech: ['Zero Trust', 'AI Defense', 'Encryption']
