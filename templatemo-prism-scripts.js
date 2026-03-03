@@ -45,7 +45,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Real em busca da décima sexta champions! ',
                 description: 'Real tem confronto com City e vai fazer de tudo pra passar e chegar á 16 champions.',
                 image: 'images/data-nexus.jpg',
-                tech: ['Apache Spark', 'Hadoop', 'Kafka']
+                tech: ['Real Madrid', 'City', 'Champions']
             },
             {
                 id: 6,
