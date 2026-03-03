@@ -24,7 +24,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Pulgar lesiona Andreas pereira',
                 description: 'Pulgar com toda delicadeza do mundo acerta sem querer a cabeça de Andreas Pereira.',
                 image: 'images/quantum-cloud.jpg',
-                tech: ['AWS', 'Kubernetes', 'Docker']
+                tech: ['Pulgar', 'X', 'Palmeiras']
             },
             {
                 id: 3,
