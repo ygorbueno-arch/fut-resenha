@@ -31,7 +31,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Vexame do Mengo na Recopa',
                 description: 'Culpa de Felipe Luiz, Flamengo perde a Recopa pra time lixo da argentina(Lanus).',
                 image: 'images/blockchain-vault.jpg',
-                tech: ['Ethereum', 'Solidity', 'Web3']
+                tech: ['Flamengo', 'Felipe Luiz', 'Recopa']
             },
             {
                 id: 4,
