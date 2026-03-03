@@ -21,10 +21,10 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 2,
-                title: 'Pulgar lesiona Andreas pereira',
-                description: 'Pulgar com toda delicadeza do mundo acerta sem querer a cabeça de Andreas Pereira.',
+                title: '18 já confirmados pra copa!',
+                description: 'Diz ancelotti em entrevista que já tem alguns jogadores em mente para copa do mundo.',
                 image: 'images/quantum-cloud.jpg',
-                tech: ['Pulgar', 'X', 'Palmeiras']
+                tech: ['Copa do mundo', 'Brasil', 'Convocação']
             },
             {
                 id: 3,
