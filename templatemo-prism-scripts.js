@@ -17,7 +17,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Flamengo x Palmeiras',
                 description: 'Com gol sofrido no finalsinho de danilo, Flamengo vence o Palmeiras na Libertadores.',
                 image: 'images/neural-network.jpg',
-                tech: ['TensorFlow', 'Python', 'CUDA']
+                tech: ['Flamengo', 'Libertadores', '1x0']
             },
             {
                 id: 2,
