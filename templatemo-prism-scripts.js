@@ -42,8 +42,8 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 5,
-                title: 'Corinthias devendo ate a Alma!',
-                description: 'Corinthias não consegue ficar um dia sem estar endividado, jogadores reclamam e não estão satisfeito com a diretoria .',
+                title: 'Real em busca da décima sexta champions! ',
+                description: 'Real tem confronto com City e vai fazer de tudo pra passar e chegar á 16 champions.',
                 image: 'images/data-nexus.jpg',
                 tech: ['Apache Spark', 'Hadoop', 'Kafka']
             },
@@ -52,14 +52,14 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'Vascao acumula mais rebaixamentos do que titúlos!',
                 description: 'Nos últimos 10 anos o Vasco conseguiu a proeza de ser rebaixado mais vezes do que ter ganhado titúlos.',
                 image: 'images/ar-interface.jpg',
-                tech: ['Unity', 'ARCore', 'Computer Vision']
+                tech: ['Vasco', 'Rebaixamentos', 'Computer Vision']
             },
             {
                 id: 7,
                 title: 'Neysão na Copa?',
                 description: 'Com vitória do Peixe e dois gols do menino Ney, será que Neymar está preparado para a copa?.',
                 image: 'images/iot-matrix.jpg',
-                tech: ['MQTT', 'Edge AI', '5G']
+                tech: ['Neymar', 'Edge AI', '5G']
             }
         ];
 
