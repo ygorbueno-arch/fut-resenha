@@ -24,12 +24,12 @@ https://templatemo.com/tm-600-prism-flux
                 title: '18 já confirmados pra copa!',
                 description: 'Diz ancelotti em entrevista que já tem alguns jogadores em mente para copa do mundo.',
                 image: 'images/quantum-cloud.jpg',
-                tech: ['Copa do mundo', 'Brasil', 'Convocação']
+                tech: ['Copa do mundo', 'Ancelotti', 'Convocação']
             },
             {
                 id: 3,
                 title: 'Vexame do Mengo na Recopa',
-                description: 'Culpa de Felipe Luiz, Flamengo perde a Recopa pra time lixo da argentina(Lanus).',
+                description: 'Culpa de Felipe Luiz, Flamengo perde a Recopa pra time da argentina(Lanus).',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Flamengo', 'Felipe Luiz', 'Recopa']
             },
@@ -38,7 +38,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: 'São Paulo toma taca pra LDU na Liberta!',
                 description: 'Com derrota de 3X0 São Paulo passa vengonha na liberta e continua em jejum.',
                 image: 'images/cyber-defense.jpg',
-                tech: ['Zero Trust', 'AI Defense', 'Encryption']
+                tech: ['São Paulo', 'LDU', 'Libertadores']
             },
             {
                 id: 5,
@@ -49,17 +49,17 @@ https://templatemo.com/tm-600-prism-flux
             },
             {
                 id: 6,
-                title: 'Vascao acumula mais rebaixamentos do que titúlos!',
+                title: 'Vascão acumula mais rebaixamentos do que titúlos!',
                 description: 'Nos últimos 10 anos o Vasco conseguiu a proeza de ser rebaixado mais vezes do que ter ganhado titúlos.',
                 image: 'images/ar-interface.jpg',
-                tech: ['Vasco', 'Rebaixamentos', 'Computer Vision']
+                tech: ['Vasco', 'Rebaixamentos', 'Titúlos']
             },
             {
                 id: 7,
                 title: 'Neysão na Copa?',
                 description: 'Com vitória do Peixe e dois gols do menino Ney, será que Neymar está preparado para a copa?.',
                 image: 'images/iot-matrix.jpg',
-                tech: ['Neymar', 'Edge AI', '5G']
+                tech: ['Neymar', 'Brasil', 'Santos']
             }
         ];
 
